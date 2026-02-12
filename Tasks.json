@@ -1,0 +1,52 @@
+[
+  {
+    "task_id": "task001",
+    "title": "Join Telegram Channel",
+    "description": "हमारे ऑफिशियल चैनल में जॉइन करें और स्क्रीनशॉट सबमिट करें।",
+    "action_link": "https://t.me/earnwithtasks_official",
+    "reward_amount": 25.0,
+    "verification_type": "screenshot",
+    "max_tasks_per_user": 1,
+    "status": "active"
+  },
+  {
+    "task_id": "task002",
+    "title": "Like & Comment on Instagram Post",
+    "description": "दिए गए इंस्टाग्राम पोस्ट पर लाइक करें, कमेंट में 'Nice' लिखें और स्क्रीनशॉट भेजें।",
+    "action_link": "https://www.instagram.com/p/C_example_post_id/",
+    "reward_amount": 35.0,
+    "verification_type": "screenshot",
+    "max_tasks_per_user": 2,
+    "status": "active"
+  },
+  {
+    "task_id": "task003",
+    "title": "Subscribe YouTube Channel",
+    "description": "इस यूट्यूब चैनल को सब्सक्राइब करें, बेल आइकन दबाएँ और सब्सक्राइब प्रूफ (स्क्रीनशॉट) भेजें।",
+    "action_link": "https://www.youtube.com/@ExampleEarnChannel",
+    "reward_amount": 40.0,
+    "verification_type": "screenshot",
+    "max_tasks_per_user": 1,
+    "status": "active"
+  },
+  {
+    "task_id": "task004",
+    "title": "Follow Twitter/X Account",
+    "description": "दिए गए X (ट्विटर) अकाउंट को फॉलो करें और फॉलो प्रूफ स्क्रीनशॉट सबमिट करें।",
+    "action_link": "https://x.com/EarnTasksPro",
+    "reward_amount": 30.0,
+    "verification_type": "screenshot",
+    "max_tasks_per_user": 1,
+    "status": "active"
+  },
+  {
+    "task_id": "task005",
+    "title": "Share Referral Link",
+    "description": "अपना रेफरल लिंक 5 दोस्तों के साथ शेयर करें (ग्रुप/स्टेटस में) और स्क्रीनशॉट भेजें।",
+    "action_link": "https://t.me/your_bot?start=your_user_id",
+    "reward_amount": 50.0,
+    "verification_type": "screenshot",
+    "max_tasks_per_user": 1,
+    "status": "active"
+  }
+]
